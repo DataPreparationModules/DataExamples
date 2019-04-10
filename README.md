@@ -70,9 +70,6 @@ We issues the following queries:
 | Q4  | 27 candidate modules  | 4  | 2  |
 | Q5  | 31 candidate modules  | 1  | 1  |
 
-
-| Content Cell  | Content Cell  |Content Cell  |Content Cell  |
-
 For query Q1, we were able to reduce dramatically the number of candidate modules from 6 to 1, thanks to the propagation of false positives between candidates. Initially, we have the following candidates: GetEntry, SearchCHEDI, ARSA, ASsembly, Seqret and DBFETCH. The false positives.
 We did not have any module that perform the transformation requested by query Q3. 
 
