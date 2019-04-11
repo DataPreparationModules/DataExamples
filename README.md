@@ -3,7 +3,7 @@ This repository contains material used for discovering data preparation modules 
 
 * The folder DataExamples/Experiment-SyntheticDataExamples/Eclipse Project/ contains the java source code that we used for generating the synthetic data sets for generating data examples, as well as the code for simulating feedback generation. 
 * The folder DataExamples/Experiment-SyntheticDataExamples/Results/ contains the data that we obtained by running our experiment using the synthetic data, as well as the qinterpretation results, charts and SQL queries that helped us analyze the results.
-* The folder DataExamples/Experiment-RealDataExamples contains the data examples that characterizes real world data preparation modules t that we used for our experiment. Information about the real-world modules that we descibed and the discovery queries that we used for experimentation are presented in what follows.
+* The folder DataExamples/Experiment-RealDataExamples contains a zip folder with the data examples that characterizes real world data preparation modules t that we used for our experiment. Information about the real-world modules that we descibed and the discovery queries that we used for experimentation are presented in what follows.
 
 # Real-World Data preparation modules described using examples 
 
@@ -49,6 +49,11 @@ Here is the list of modules that we described using data examples:
 * snp (by NCBI)
 * Protein2GO (by QuickGO)
 * GeneProducts (by QuickGO)
+* DBFetch (by EBI)
+* TestProbe (by ARB-SILVA)
+* TestPrime (by ARB-SILVA)
+* Phylogeny (by EBI)
+
 
 # Queries
 We issues the following queries:
