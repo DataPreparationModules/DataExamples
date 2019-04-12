@@ -53,6 +53,23 @@ Here is the list of modules that we described using data examples:
 * TestProbe (by ARB-SILVA)
 * TestPrime (by ARB-SILVA)
 * Phylogeny (by EBI)
+* InterproScan (by EBI)
+* PisaQuery (by EBI)
+* microscopy density maps (by EBI)
+* ePlant (by bar.utoronto)
+* SGRP Blast (by csb.utoronto)
+* SGBR extractSeqFragment (by csb.utoronto)
+* FindGeo (by metalweb)
+* Metal_S3 (by metalweb)
+* MetalPredator (by metalweb)
+* activity (by unipr.it)
+* bib (by unipr.it)
+* family (by unipr.it)
+* pGenN (by udel)
+* evex (by evexDB)
+* chat (by lionproject)
+* cancer-search (by pubmeth)
+* brenda (by enzymes.org)
 
 
 # Queries
